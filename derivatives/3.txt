@@ -1,0 +1,4 @@
+f(x) = -2*x^3 + 3*x^2
+Derivative 1 = -6*x^2 + 6*x
+Derivative 2 = -12*x + 6
+Derivative 3 = -12

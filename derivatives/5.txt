@@ -1,0 +1,6 @@
+f(x) = 6*x^5 - 15*x^4 + 10*x^3
+Derivative 1 = 30*x^4 - 60*x^3 + 30*x^2
+Derivative 2 = 120*x^3 - 180*x^2 + 60*x
+Derivative 3 = 360*x^2 - 360*x + 60
+Derivative 4 = 720*x - 360
+Derivative 5 = 720

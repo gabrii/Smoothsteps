@@ -7,3 +7,5 @@ This repository holds a collection of [smootstep functions](https://en.wikipedia
  * NumPy for matrix operations.
  * Matplotlib for plotting (Even though the plotting starts to overflow at 35th order, the equations remain valid).
 
+Disclaimer: Generator.py is the program that generates the program that calculates everything for a given order polynomial, this is bad design and should not be taken as a reference.
+
